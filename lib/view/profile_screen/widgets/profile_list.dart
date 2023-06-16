@@ -31,11 +31,11 @@ class ProfileLists extends StatelessWidget {
                   const SizedBox(
                     width: 20,
                   ),
-                  // Text(
-                  //   text,
-                  //   style: const TextStyle(
-                  //       fontWeight: FontWeight.normal, fontSize: 20),
-                  // )
+                  Text(
+                    text,
+                    style: const TextStyle(
+                        fontWeight: FontWeight.normal, fontSize: 20),
+                  )
                 ],
               ),
             ),
